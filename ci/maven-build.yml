@@ -12,7 +12,7 @@ outputs:
 - name: artifacts
 
 run:
-  path: articulate-repo/build.sh
+  path: articulate-repo/ci/build.sh
 
 caches:
 - path: .m2/
